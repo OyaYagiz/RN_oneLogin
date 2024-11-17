@@ -74,4 +74,4 @@ Open a pull request.
 
 ```
 
-![Login Screen Animation](assets/images/output12.gif)
+![Login Screen Animation](assets/images/resized.gif)
