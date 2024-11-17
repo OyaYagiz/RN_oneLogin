@@ -72,5 +72,6 @@ Commit and push your changes.
 Open a pull request.
 
 
-![Login Screen Animation](assets/images/output.gif)
 ```
+
+![Login Screen Animation](assets/images/output.gif)
