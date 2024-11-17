@@ -1,7 +1,7 @@
 <h1>oneLogin - React Native App</h1>
 The oneLogin project is a mobile app that allows users to easily log in and sign up. It is developed using React Native and modern tools to provide a seamless experience.
 
-Features
+<h2>Features</h2>
 Users can fill in the required form fields to log in and create new accounts.
 Animations are used to enrich the user experience.
 A modern and sleek user interface (UI).
@@ -68,3 +68,5 @@ Commit and push your changes.
 Open a pull request.
 License
 This project is licensed under the MIT License.
+
+![Login Screen Animation](assets/images/output.gif)
